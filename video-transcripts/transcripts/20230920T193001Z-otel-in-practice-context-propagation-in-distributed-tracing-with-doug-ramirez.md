@@ -1,4 +1,4 @@
-# OTEL in Practice: Context Propapagtion in Distributed Tracing with Doug Ramirez
+# OTEL in Practice: Context Propagation in Distributed Tracing with Doug Ramirez
 
 Published on 2023-09-20T19:30:01Z
 

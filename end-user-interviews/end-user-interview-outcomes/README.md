@@ -31,7 +31,7 @@ This serves to transparently organize our interview activities and findings.
 - Recording link: https://www.youtube.com/watch?v=ztrknOWIUh8
 
 ### September 2023: Hazel Weakly
-- Recoridng link: https://www.youtube.com/watch?v=wMJEgrUnX7M
+- Recording link: https://www.youtube.com/watch?v=wMJEgrUnX7M
 
 ### July 2023: Jacob Aronoff from Lightstep
 - Recording link: https://www.youtube.com/watch?v=dpXhgZL9tzU
